@@ -3,4 +3,4 @@
   valid email address , and valid password in range of 5 to 25.
   This repository consist of html, css, javascript code.
 
-I have included password checking code in it.If you do not want you can download and remove it. 
+I have included account verification code in it.If you do not want you can download and remove it. 
